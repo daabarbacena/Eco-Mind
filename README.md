@@ -1,9 +1,9 @@
 
-  # EcoMind (Community)
+  # EcoMind
 
-  This is a code bundle for EcoMind (Community). The original project is available at https://www.figma.com/design/4wZqvsugWNaUt2JQkgJUFY/EcoMind--Community-.
+  Trabalho Startup One.
 
-  ## Running the code
+  ## Rodando o código:
 
   Run `npm i` to install the dependencies.
 
